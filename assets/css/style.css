@@ -103,7 +103,7 @@ img {
 
 /* Added spacing after Reviews section */
 .Reviews-section {
-    padding-bottom: 4rem; /* creates space after reviews */
+    padding-bottom: 5rem; /* creates space after reviews */
     margin-bottom: 0; /* ensure margin not collapsed */
     margin-top: 6rem;
 }
